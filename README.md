@@ -30,12 +30,11 @@ I just wanted to bring some tweaking for my personal use, and I thought others m
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ## Screenshots
-<img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-full.png" height="400" width="800">
-<br/>
-<img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-actions.png" height="400" width="400">
-
-[//]: # (![screenshot: ide]&#40;https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-full.png&#41;)
-[//]: # (![screenshot: settings]&#40;https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-actions.png&#41;)
+<img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-full.png" height="400" width="600" alt="full-image">
+<br />
+<img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-full.png" height="400" width="600" alt="full-image-2">
+<br />
+<img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-actions.png" height="400" width="330" alt="actions-image">
 
 
 [GitHub](https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme)

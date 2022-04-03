@@ -5,23 +5,17 @@
  "editorScheme": "/theme/xcode-darker.xml",
  "ui": {
   "*": {
-   "background": "#292A30",
-   "foreground": "#DDE9FA",
-
+   "background": "#24252A",
+   "foreground": "#FFFFFF",
    "infoForeground": "#A9A9AA",
-
-   "selectionBackground": "#1D7BED",
-   "selectionForeground": "#F9FCFF",
-   "selectionInactiveBackground": "#555657",
-   "selectionBackgroundInactive": "#555657",
 
    "lightSelectionBackground": "#2B4059",
    "lightSelectionForeground": "#FFFFFF",
-   "lightSelectionInactiveBackground": "#555657",
-   "lightSelectionInactiveForeground": "#DFDFE0",
+   "lightSelectionInactiveBackground": "#24252A",
+   "lightSelectionInactiveForeground": "#FFFFFF",
 
-   "disabledBackground": "#292A30",
-   "inactiveBackground": "#292A30",
+   "disabledBackground": "#24252A",
+   "inactiveBackground": "#24252A",
 
    "disabledForeground": "#737374",
    "disabledText": "#737374",
@@ -42,7 +36,7 @@
    "separatorColor": "#5A5B5C",
    "lineSeparatorColor": "#5A5B5C",
 
-   "modifiedItemForeground": "#1E4D86"
+   "modifiedItemForeground": "#206DE3"
   },
 
   "ActionButton": {
@@ -117,12 +111,12 @@
 
   "DragAndDrop": {
    "areaForeground": "#DFDFE0",
-   "areaBackground": "#363737",
+   "areaBackground": "#24252A",
    "areaBorderColor": "#414141"
   },
 
   "EditorTabs": {
-   "inactiveColoredFileBackground": "#2d281d"
+   "inactiveColoredFileBackground": "#24252A"
   },
 
   "FileColor": {
