@@ -20,8 +20,8 @@
    "lightSelectionInactiveBackground": "#555657",
    "lightSelectionInactiveForeground": "#DFDFE0",
 
-   "disabledBackground": "#323333",
-   "inactiveBackground": "#313233",
+   "disabledBackground": "#292A30",
+   "inactiveBackground": "#292A30",
 
    "disabledForeground": "#737374",
    "disabledText": "#737374",
