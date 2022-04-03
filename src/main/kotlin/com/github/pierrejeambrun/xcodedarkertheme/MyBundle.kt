@@ -1,4 +1,4 @@
-package com.github.pierrejeambrun.improvedxcodedarktheme
+package com.github.pierrejeambrun.xcodedarkertheme
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

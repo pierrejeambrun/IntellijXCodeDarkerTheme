@@ -1,4 +1,4 @@
-package com.github.pierrejeambrun.improvedxcodedarktheme
+package com.github.pierrejeambrun.xcodedarkertheme
 
 import com.intellij.ide.highlighter.XmlFileType
 import com.intellij.psi.xml.XmlFile

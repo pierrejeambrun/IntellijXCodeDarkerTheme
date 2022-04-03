@@ -1,1 +1,1 @@
-rootProject.name = "ImprovedXCodeDarkTheme"
+rootProject.name = "IntellijXCodeDarkerTheme"

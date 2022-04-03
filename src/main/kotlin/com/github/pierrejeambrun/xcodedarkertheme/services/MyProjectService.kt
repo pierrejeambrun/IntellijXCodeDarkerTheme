@@ -1,7 +1,7 @@
-package com.github.pierrejeambrun.improvedxcodedarktheme.services
+package com.github.pierrejeambrun.xcodedarkertheme.services
 
 import com.intellij.openapi.project.Project
-import com.github.pierrejeambrun.improvedxcodedarktheme.MyBundle
+import com.github.pierrejeambrun.xcodedarkertheme.MyBundle
 
 class MyProjectService(project: Project) {
 

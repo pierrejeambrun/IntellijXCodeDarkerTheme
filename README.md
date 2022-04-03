@@ -1,21 +1,13 @@
-# Improved XCode Dark Theme
+# XCode Darker Theme
 
-![Build](https://github.com/pierrejeambrun/ImprovedXCodeDarkTheme/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/18890.svg)](https://plugins.jetbrains.com/plugin/18890)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/18890.svg)](https://plugins.jetbrains.com/plugin/18890)
+
+![icon](src/main/resources/META-INF/pluginIcon.svg)
 
 ## Description
-Theme inspired by [intellij-xcode-dark-theme](https://github.com/antelle/intellij-xcode-dark-theme),
-fully dark (entire UI) with
-a little more contrasts.
-
-## Template ToDo list
-- [x] Create a new [IntelliJ Platform Plugin Template][template] project.
-- [ ] Verify the [pluginGroup](/gradle.properties), [plugin ID](/src/main/resources/META-INF/plugin.xml) and [sources package](/src/main/kotlin).
-- [ ] [Publish a plugin manually](https://plugins.jetbrains.com/docs/intellij/publishing-plugin.html?from=IJPluginTemplate) for the first time.
-- [ ] Set the Plugin ID in the above README badges.
-- [ ] Set the [Deployment Token](https://plugins.jetbrains.com/docs/marketplace/plugin-upload.html).
-- [ ] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
+Theme inspired by [intellij-xcode-dark-theme](https://github.com/antelle/intellij-xcode-dark-theme).
+Darker with a monochrome UI, few adjustments and a little more contrasts.
 
 Screenshots:
 ![screenshot: ide](images/screenshot-full.png)
@@ -26,12 +18,12 @@ Screenshots:
 
 - Using IDE built-in plugin system:
   
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "ImprovedXCodeDarkTheme"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "XCode Darker Theme"</kbd> >
   <kbd>Install Plugin</kbd>
   
 - Manually:
 
-  Download the [latest release](https://github.com/pierrejeambrun/ImprovedXCodeDarkTheme/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/pierrejeambrun/XCodeDarkerTheme/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 
@@ -41,36 +33,23 @@ Plugin based on the [IntelliJ Platform Plugin Template][template].
 [template]: https://github.com/JetBrains/intellij-platform-plugin-template
 
 <!-- Plugin description -->
-# Improved XCode Dark Theme
+# XCode Darker Theme
 
 ## Description
-Theme inspired by [intellij-xcode-dark-theme](https://github.com/antelle/intellij-xcode-dark-theme),
-fully dark (entire UI) with
-a little more contrasts.
-
-Screenshots:
-![screenshot: ide](images/screenshot-full.png)
-![screenshot: settings](images/screenshot-actions.png)
-
+Theme inspired by [intellij-xcode-dark-theme](https://github.com/antelle/intellij-xcode-dark-theme). Darker with a monochrome UI, few adjustments and a little more contrasts.
 
 ## Installation
 
 - Using IDE built-in plugin system:
 
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "ImprovedXCodeDarkTheme"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "XCode Darker Theme"</kbd> >
   <kbd>Install Plugin</kbd>
 
 - Manually:
 
-  Download the [latest release](https://github.com/pierrejeambrun/ImprovedXCodeDarkTheme/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/pierrejeambrun/XCodeDarkerTheme/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
-
 ---
-Plugin based on the [IntelliJ Platform Plugin Template][template].
-
-[template]: https://github.com/JetBrains/intellij-platform-plugin-template
-
-
-Github: https://github.com/pierrejeambrun/ImprovedXCodeDarkTheme
+[SourceCode/Github](https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme)
 <!-- Plugin description end -->

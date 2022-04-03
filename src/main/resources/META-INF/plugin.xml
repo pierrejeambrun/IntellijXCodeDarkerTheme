@@ -1,12 +1,12 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.pierrejeambrun.improvedxcodedarktheme</id>
-    <name>Improved XCode Dark Theme</name>
+    <id>com.github.pierrejeambrun.intellijxcodedarkertheme</id>
+    <name>XCode Darker Theme</name>
     <vendor>Pierre Jeambrun</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.github.pierrejeambrun.improvedxcodedarktheme" path="/theme/improved-xcode-dark.theme.json" />
+        <themeProvider id="com.github.pierrejeambrun.intellijxcodedarkertheme" path="/theme/xcode-darker.theme.json" />
     </extensions>
 </idea-plugin>

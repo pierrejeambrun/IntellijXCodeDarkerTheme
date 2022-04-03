@@ -1,8 +1,8 @@
 {
- "name": "Improved XCode Dark",
+ "name": "XCode Darker",
  "dark": true,
- "author": "PierrotOpenSource",
- "editorScheme": "/theme/improved-xcode-dark.xml",
+ "author": "Pierre Jeambrun",
+ "editorScheme": "/theme/xcode-darker.xml",
  "ui": {
   "*": {
    "background": "#292A30",
