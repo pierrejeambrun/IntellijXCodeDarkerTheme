@@ -32,7 +32,7 @@ I just wanted to bring some tweaking for my personal use, and I thought others m
 ## Screenshots
 <img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-full.png" height="400" width="600" alt="full-image">
 <br />
-<img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-full.png" height="400" width="600" alt="full-image-2">
+<img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-full-2.png" height="400" width="600" alt="full-image-2">
 <br />
 <img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-actions.png" height="400" width="330" alt="actions-image">
 
