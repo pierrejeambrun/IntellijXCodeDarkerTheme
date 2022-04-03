@@ -6,6 +6,7 @@
 
 <img src="src/main/resources/META-INF/pluginIcon.svg" height="100" width="100">
 
+<!-- Plugin description -->
 ## Description
 Theme based on [intellij-xcode-dark-theme](https://github.com/antelle/intellij-xcode-dark-theme),
 which is great and did most of the heavy lifting.
@@ -25,37 +26,17 @@ I just wanted to bring some tweaking for my personal use, and I thought others m
   
 - Manually:
 
-  Download the [latest release](https://github.com/pierrejeambrun/XCodeDarkerTheme/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ## Screenshots
-![screenshot: ide](images/screenshot-full.png)
-![screenshot: settings](images/screenshot-actions.png)
+<img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-full.png" height="400" width="800">
+<br/>
+<img src="https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-actions.png" height="400" width="400">
 
+[//]: # (![screenshot: ide]&#40;https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-full.png&#41;)
+[//]: # (![screenshot: settings]&#40;https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme/raw/master/images/screenshot-actions.png&#41;)
 
----
-<!-- Plugin description -->
-# XCode Darker Theme
-
-## Description
-Theme based on [intellij-xcode-dark-theme](https://github.com/antelle/intellij-xcode-dark-theme) with a few adjustments.
-- Unified background color for the entire UI
-- Intellij style for warnings, errors, highlights. (mostly under waves)
-- A bit more contrasts and pink (Brighter text etc.)
-- Few minor changes (Caret, Selection etc.)
-
-## Installation
-
-- Using IDE built-in plugin system:
-
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "XCode Darker Theme"</kbd> >
-  <kbd>Install Plugin</kbd>
-
-- Manually:
-
-  Download the [latest release](https://github.com/pierrejeambrun/XCodeDarkerTheme/releases/latest) and install it manually using
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 [GitHub](https://github.com/pierrejeambrun/IntellijXCodeDarkerTheme)
 <!-- Plugin description end -->
----

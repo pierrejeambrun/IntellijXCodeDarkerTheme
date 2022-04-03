@@ -1,10 +1,9 @@
-<!-- Keep a Changelog guide -> https://keepachangelog.com -->
-
-# XCode Darker Theme Changelog
+# Changelog
 
 ## [Unreleased]
 
-## [1.0.1]
-### Added
-- Initial commit.
+## [1.0.4]
+- Change plugin description
 
+## [1.0.3]
+- Minor Adjustments
