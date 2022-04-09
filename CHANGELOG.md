@@ -1,6 +1,7 @@
 # Changelog
 
 ## [Unreleased]
+- Fix scrollbar color on macOS
 
 ## [1.0.7]
 - Update Licence
