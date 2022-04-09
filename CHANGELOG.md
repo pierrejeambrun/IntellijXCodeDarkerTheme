@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+
+## [1.0.8]
 - Fix scrollbar color on macOS
 
 ## [1.0.7]
